@@ -1,49 +1,104 @@
-# Anshuman-Sinha
-My GitHub profile README.
-# Hi, I'm Anshuman Sinha 👋
+# Hi there, I'm Anshuman Sinha 👋
 
-🎓 **BTech 2nd Year** | AI & ML Enthusiast | Web Development Learner  
-💡 Exploring AI/ML concepts, building projects, and sharing my learning journey.  
+### Computer Science (AI/ML) Student | Aspiring Software Engineer | AI & Full-Stack Developer
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/anshuman-sinha-45ba89319) • anshumansinha1209@gmail.com
+I'm a B.Tech CSE (Artificial Intelligence & Machine Learning) student at **Galgotias College of Engineering & Technology** with a strong interest in **Software Development, Artificial Intelligence, and Data Structures & Algorithms**.
 
----
-
-## 🌱 Currently Learning
-- Python fundamentals & advanced concepts
-- AI/ML libraries: NumPy, pandas, Matplotlib, scikit-learn
-- HTML, CSS, JavaScript basics for frontend
-- Problem-solving with C programming
+I enjoy building practical applications, solving algorithmic problems, and continuously improving my development skills through hands-on projects.
 
 ---
 
-## 💻 Skills & Tools
-- **Languages**: Python • C • JavaScript (Basic) • HTML • CSS
-- **ML Tools**: NumPy • pandas • Matplotlib (more coming soon…)
-- **Version Control**: Git & GitHub
-- **Other**: VS Code, PyCharm
+## 🚀 About Me
+
+- 🎓 B.Tech CSE (AI/ML), 3rd Year
+- 💻 Passionate about Software Development and Artificial Intelligence
+- 🧩 Regularly solving Data Structures & Algorithms problems on LeetCode
+- 🌱 Expanding my knowledge in Machine Learning, Deep Learning, and Backend Development
+- 💼 Open to AI/ML and Software Development internship opportunities
 
 ---
 
-## 🚀 Projects & Practice
-*(Work in progress as I learn — more coming soon)*  
-- **Basic Portfolio Website** — My personal webpage using HTML, CSS, and JavaScript. *(Repo coming soon)*  
-- **Python Mini Scripts** — Small programs for learning syntax and logic. *(Repo link)*  
-- **Data Analysis Practice** — Hands-on with pandas and Matplotlib. *(Repo link)*  
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+
+### AI & Machine Learning
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+### Web Development
+- Flask
+- Django
+- REST APIs
+
+### Database
+- PostgreSQL
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- PyCharm
+- LeetCode
+
+### Currently Exploring
+- TensorFlow
+- PyTorch
+- Deep Learning
+- Large Language Models (LLMs)
 
 ---
 
-## 📈 GitHub Stats
-![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshumanSinha12&show_icons=true&theme=tokyonight)
+## 🚀 Featured Project
+
+### 🌐 Portfolio Website
+
+A responsive developer portfolio built using **Flask, Python, HTML, CSS, and JavaScript**, featuring:
+
+- Modern responsive design
+- Dark & Light theme
+- Live LeetCode statistics
+- Project showcase
+- Contact section
+
+**🔗 Live Demo:**  
+https://anshuman-portfolio-rxcx.onrender.com
+
+**📂 Repository:**  
+https://github.com/AnshumanSinha12/portfolio
 
 ---
 
-## 🎯 Goals for 2025
-- Build at least **5 AI/ML mini-projects** and host them on GitHub  
-- Create a **full-stack web project** combining frontend + backend  
-- Contribute to **at least 2 open-source projects**  
-- Consistently commit code to track my progress  
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:anshumansinha1209@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/anshuman-sinha-45ba89319" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/Anshuman_Sinha_/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://anshuman-portfolio-rxcx.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-> “The best way to predict the future is to create it.” — Let’s code our future together 🚀
+> *"Always learning. Always building. Always improving."* 🚀
